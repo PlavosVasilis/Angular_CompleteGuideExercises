@@ -17,6 +17,9 @@ I have some notes here and some things to remember.
 - update angular.json with .css file at styles
 - ng serve
 
+### Commands to Remember
+- ng generate component servers (create a component named servers) or ng g c servers
+
 
 ### Important Projects - Exercises we finished:
 - empty-yet
