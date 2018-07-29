@@ -6,6 +6,13 @@ I have some notes here and some things to remember.
 - open CMD (Admin)
 - npm install -g @angular/cli@latest
 
+
+### Use Bootstrap (or another css)
+- npm install --save bootstrap@3
+- update angular.json with .css file at styles
+- ng serve
+
+
 ### Important Projects - Exercises we finished:
 - empty-yet
 
