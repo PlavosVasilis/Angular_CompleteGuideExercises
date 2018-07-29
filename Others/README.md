@@ -6,6 +6,11 @@ I have some notes here and some things to remember.
 - open CMD (Admin)
 - npm install -g @angular/cli@latest
 
+### New Angular App
+- ng new my-app-name
+- cd my-app-name
+- ng serve --open
+
 
 ### Use Bootstrap (or another css)
 - npm install --save bootstrap@3
