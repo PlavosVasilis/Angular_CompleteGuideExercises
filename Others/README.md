@@ -2,9 +2,9 @@
 I have some notes here and some things to remember.
 
 ### Install Angular:
-- Download Node.js [https://nodejs.org](https://nodejs.org)
-- open CMD (Admin)
-- ```npm install -g @angular/cli@latest```
+1. Download [Node.js](https://nodejs.org)
+2. open CMD (Admin)
+3. ```npm install -g @angular/cli@latest```
 
 
 ### New Angular App
@@ -25,11 +25,11 @@ ng serve --open
 
 
 ### Important Projects - Exercises we finished:
-- empty-yet
+- **my-first-app** - you are righting something at a form and you can see it dynamically
 
 
 ### About the Repo
-In this repo I will upload many small Angular  Excercises.
+In this repo I will upload many small **Angular Excercises**.
 
-### About me
-Connect with me on LinkedIn: [https://www.linkedin.com/in/vasilisplavos/](https://www.linkedin.com/in/vasilisplavos/)
+
+Made with ❤️ by [Vasilis Plavos](https://www.linkedin.com/in/vasilisplavos/)
