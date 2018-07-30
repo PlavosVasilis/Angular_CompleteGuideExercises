@@ -21,7 +21,7 @@ ng serve --open
 - ```ng serve```
 
 ### Commands to Remember
-- ```ng generate component servers``` (create a component named servers) or ```ng g c servers```
+- ```ng generate component servers``` (create a component named servers) **or** ```ng g c servers```
 
 
 ### Important Projects - Exercises we finished:
