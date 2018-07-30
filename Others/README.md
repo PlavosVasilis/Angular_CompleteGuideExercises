@@ -2,11 +2,10 @@
 I have some notes here and some things to remember.
 
 ### Install Angular:
-```
-- Download Node.js
+- Download Node.js [https://nodejs.org](https://nodejs.org)
 - open CMD (Admin)
-- npm install -g @angular/cli@latest
-```
+- ```npm install -g @angular/cli@latest```
+
 
 ### New Angular App
 ```
@@ -17,12 +16,12 @@ ng serve --open
 
 
 ### Use Bootstrap (or another css)
-```npm install --save bootstrap@3```
+- ```npm install --save bootstrap@3```
 - update angular.json with .css file at styles
 - ```ng serve```
 
 ### Commands to Remember
-- ng generate component servers (create a component named servers) or ng g c servers
+- ```ng generate component servers``` (create a component named servers) or ```ng g c servers```
 
 
 ### Important Projects - Exercises we finished:
