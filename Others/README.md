@@ -2,14 +2,18 @@
 I have some notes here and some things to remember.
 
 ### Install Angular:
+```
 - Download Node.js
 - open CMD (Admin)
 - npm install -g @angular/cli@latest
+```
 
 ### New Angular App
-- ng new my-app-name
-- cd my-app-name
-- ng serve --open
+```
+ng new my-app-name
+cd my-app-name
+ng serve --open
+```
 
 
 ### Use Bootstrap (or another css)
