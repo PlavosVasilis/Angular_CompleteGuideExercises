@@ -32,4 +32,4 @@ ng serve --open
 In this repo I will upload many small **Angular Excercises**.
 
 
-Made with ❤️ by [Vasilis Plavos](https://www.linkedin.com/in/vasilisplavos/)
+###### Made with ❤️ by [Vasilis Plavos](https://www.linkedin.com/in/vasilisplavos/)
