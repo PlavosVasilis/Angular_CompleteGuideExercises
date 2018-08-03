@@ -13,6 +13,7 @@ import { Component, OnInit } from '@angular/core';
 export class ServersComponent implements OnInit {
   allowNewServer = false;
   serverCreationStatus = 'No Server Creation';
+  serverName = '';
 
   constructor() {
     setTimeout(() => {
@@ -25,6 +26,14 @@ export class ServersComponent implements OnInit {
 
   onCreateServer() {
     this.serverCreationStatus = 'Server Created';
+  }
+
+  onUpdateServerName(event: Event) {
+    // first i type event.target.value but it didnt work
+    // then i type <HTMLInputElement>event.target.value to explain the .target but it didnt work because of .value
+    // finally i type (<HTMLInputElement>event.target).value; and it works! :)
+    this.serverName = (<HTMLInputElement>event.target).value;
+
   }
 
 }
