@@ -18,8 +18,12 @@ npm install
 ng serve --open
 ```
 
-### Commands to Remember
+### Things to Remember
 - ```ng add @angular/material``` - other way to add Angular Material
+- **Important:** Check Material Design Schematics https://material.angular.io/guide/schematics
+- ```ng generate @angular/material:material-nav --name <component-name>``` - The navigation schematic will create a new component that includes a toolbar with the app name and the side nav responsive based on Material breakpoints.
+- ```ng generate @angular/material:material-dashboard --name <component-name>``` - The dashboard schematic will create a new component that contains a dynamic grid list of cards.
+- ```ng generate @angular/material:material-table --name <component-name>``` - The table schematic will create a new table component pre-configured with a datasource for sorting and pagination.
 
 
 # Above this line content is Temporary
