@@ -29,6 +29,9 @@ ng serve --open
 ### Important Projects - Exercises we finished:
 - **my-first-app** - you are righting something at a form and you can see it dynamically
 
+### Other Important Projects
+- Others/material/**app1-site-w-menu** - First try to use Material Design with Angular using [this Tutorial](https://www.youtube.com/watch?v=Fcr-gM-QThc)
+
 
 ### About the Repo
 In this repo I will upload many small **Angular Excercises**.
