@@ -9,7 +9,7 @@ I have some notes here and some things to remember.
 
 ### Angular Material Commands I use
 ```
-ng new app1 --routing --style=scss
+ng new app3 --routing --style=scss
 cd app1
 npm install
 npm install --save @angular/material @angular/cdk @angular/animations
@@ -17,6 +17,9 @@ npm install hammerjs
 npm install
 ng serve --open
 ```
+
+### Commands to Remember
+- ```ng add @angular/material``` - other way to add Angular Material
 
 
 # Above this line content is Temporary
