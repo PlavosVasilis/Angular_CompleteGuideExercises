@@ -11,6 +11,7 @@ I have some notes here and some things to remember.
 ```
 ng new my-app-name
 cd my-app-name
+npm install
 ng serve --open
 ```
 
@@ -22,6 +23,7 @@ ng serve --open
 
 ### Commands to Remember
 - ```ng generate component servers``` (create a component named servers) **or** ```ng g c servers```
+- ```ng new app1 --routing --style=scss``` it creates an app named app1, including routing template and replacing css with scss
 
 
 ### Important Projects - Exercises we finished:
