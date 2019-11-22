@@ -9,7 +9,7 @@ I have just started learing Angular and it's power.
 
 
 ### About the Repo
-In this repo I will upload many small Angular  Excercises.
+In this repo I will upload many small Angular Excercises.
 
 ### About me
 Connect with me on LinkedIn: [https://www.linkedin.com/in/vasilisplavos/](https://www.linkedin.com/in/vasilisplavos/)
